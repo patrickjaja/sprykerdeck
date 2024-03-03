@@ -1,5 +1,5 @@
-
-
+How to start spryker on steam deck
+ - desktop mode -> open application konsole
  - enable dev mode `sudo steamos-devmode enable`
  - install docker `sudo pacman -S docker`
  - install docker-compose `sudo pacman -S docker-compose`

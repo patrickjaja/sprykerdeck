@@ -26,3 +26,4 @@ https://docs.spryker.com/docs/dg/dev/set-up-spryker-locally/quickstart-guides-in
 
 
 
+![started spryker](https://raw.githubusercontent.com/patrickjaja/sprykerdeck/main/PXL_20240303_000714013.jpg)
